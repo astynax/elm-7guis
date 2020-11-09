@@ -2,10 +2,12 @@
 
 Here I have my solutions for the [[https://eugenkiss.github.io/7guis/tasks/]["7GUIs" tasks]]. The "GUI toolkit" I tested is [[https://elm-lang.org/][Elm]] and its core libraries.
 
-- [X] [[Task1.elm]]
-- [X] [[Task2.elm]]
-- [ ] Task 3
-- [ ] Task 4
-- [ ] Task 5
-- [ ] Task 6
-- [ ] Task 7
+| Done | File  | Task                    |
+|------+-------+-------------------------|
+| X    | [[task1]] | [[https://eugenkiss.github.io/7guis/tasks/#counter]["Counter"]]               |
+| X    | [[task2]] | [[https://eugenkiss.github.io/7guis/tasks/#temp]["Temperature Converter"]] |
+|      | task3 | [[https://eugenkiss.github.io/7guis/tasks/#flight]["Flight Booker"]]         |
+|      | task4 | [[https://eugenkiss.github.io/7guis/tasks/#timer]["Timer"]]                 |
+|      | task5 | [[https://eugenkiss.github.io/7guis/tasks/#crud]["CRUD"]]                  |
+|      | task6 | [[https://eugenkiss.github.io/7guis/tasks/#circle]["Circle Drawer"]]         |
+|      | task7 | [[https://eugenkiss.github.io/7guis/tasks/#cells]["Cells"]]                 |
